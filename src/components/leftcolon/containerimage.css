@@ -1,0 +1,15 @@
+
+.catcontainer{
+    width: 25%;
+    background-color: blueviolet;
+    margin: 10px 10px;
+    border: thick double #ffffff;
+    aspect-ratio: 1/1;
+   
+}
+
+.imgcat1 {
+    height: 100%;
+    display: block;
+    
+}

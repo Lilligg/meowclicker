@@ -1,0 +1,30 @@
+.containerClicker{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column;
+}
+
+.imageTap{
+display: block;
+margin-top: auto;
+width: 100%;
+}
+
+.imageTap:active {
+    transform: scale(1.002);
+}
+
+.meowtext {
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+    width: 93%;
+    height: 70px;
+    margin: 0;
+    margin-bottom: 5%;
+    background-color: rgb(138, 44, 226);
+    border: thick double #ffffff;
+}
